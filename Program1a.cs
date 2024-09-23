@@ -1,11 +1,11 @@
 using System;
-namespace Program1a;
+namespace Program1a
 { 
   class Program
   {
-  public static void main(string [args]);
+  public static void main(string [args])
     {
-       System.Conole.WeiteLine($"Первая страница");
-    }
-  }
-}
+       System.Console.WriteLine($"Первая страница");
+    };
+  };
+};
